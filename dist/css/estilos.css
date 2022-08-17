@@ -1,0 +1,112 @@
+table,
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.coloropaco {
+    background-color: #c4d7d9;
+    height: 10px;
+}
+
+.rtematratar {
+    width: 100px;
+}
+
+.tdasistente {
+    height: 18px;
+}
+
+.tdasistentenombre {
+    width: 200px;
+}
+
+.tdasistentecargo {
+    width: 250px;
+}
+
+.tdasistentetelefono {
+    height: 18px;
+}
+
+.tdordendeldia {
+    height: 350px;
+}
+
+footer {
+    position: fixed;
+    bottom: 50px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    text-align: center;
+    font-size: 10px;
+    /** Extra personal styles **/
+    /* background-color: black; */
+    /* color: white;
+  line-height: 35px; */
+}
+
+.saltopagina {
+    page-break-after: always;
+}
+
+.tdcomentarios {
+    background-color: #c4d7d9;
+}
+
+.tdtitulogeneralidades {
+    background-color: #c4d7d9;
+    text-align: left;
+}
+
+.tdgeneralidades {
+    height: 230px;
+}
+
+.tituloCompromiso {
+    background-color: #c4d7d9;
+    text-align: left;
+}
+
+.td_compromisos {
+    height: 16px;
+}
+
+.justificartexto {
+    text-align: justify;
+}
+
+.tamano14 {
+    font-size: 14px;
+}
+
+.tamano12 {
+    font-size: 12px;
+}
+
+.anchoactividad {
+    width: 200px;
+}
+
+.anchoaresponsable {
+    width: 200px;
+}
+
+
+/* ---------------------------------------------------------------------ACTA GENERICA */
+
+.tituloheader {
+    height: 40px;
+    font-size: 25px;
+}
+
+.tamano20 {
+    font-size: 22px;
+}
